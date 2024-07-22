@@ -9,7 +9,7 @@
 | It can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['botToken'] = "";
+$config['botToken'] = "7495132028:AAHMrEA4l3BGSLpiMSqoC4UDxp9UsSmeNsI";
 
 /*
 |--------------------------------------------------------------------------
@@ -20,7 +20,7 @@ $config['botToken'] = "";
 | ID can be obtained from https://telegram.dog/username_to_id_bot
 |
 */
-$config['adminID'] = "";
+$config['adminID'] = "1906280172";
 
 /*
 |--------------------------------------------------------------------------
@@ -31,7 +31,7 @@ $config['adminID'] = "";
 | ID can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['logsID'] =  "";
+$config['logsID'] =  "-4250775835";
 
 /*
 |--------------------------------------------------------------------------
@@ -52,10 +52,10 @@ $config['timeZone'] =  "Asia/Kolkata";
 | Database to Store User Data
 |
 */
-$config['db']['hostname'] =  "localhost";
-$config['db']['username'] =  "root";
-$config['db']['password'] =  "";
-$config['db']['database'] =  "checkerbot";
+$config['db']['hostname'] =  "http://sql12.freesqldatabase.com/";
+$config['db']['username'] =  "sql12720935";
+$config['db']['password'] =  "GwyWKH5kJE";
+$config['db']['database'] =  "sql12720935";
 
 /*
 |--------------------------------------------------------------------------
